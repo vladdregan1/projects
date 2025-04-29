@@ -1,0 +1,120 @@
+Time: 0
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 1
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 2
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 3
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 4
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 5
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 6
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 7
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 8
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 9
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 10
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 11
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 12
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 13
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 14
+Waiting tasks: (1,15,2)(2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
+Time: 15
+Waiting tasks: (2,16,4)(0,20,2)(3,21,2)
+Queue: 0 clients: (1,15,2)
+Queue: 1 clients: closed
+-------------------------
+Time: 16
+Waiting tasks: (0,20,2)(3,21,2)
+Queue: 0 clients: (1,15,1)
+Queue: 1 clients: (2,16,4)
+-------------------------
+Time: 17
+Waiting tasks: (0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: (2,16,3)
+-------------------------
+Time: 18
+Waiting tasks: (0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: (2,16,2)
+-------------------------
+Time: 19
+Waiting tasks: (0,20,2)(3,21,2)
+Queue: 0 clients: closed
+Queue: 1 clients: (2,16,1)
+-------------------------
+Time: 20
+Waiting tasks: (3,21,2)
+Queue: 0 clients: (0,20,2)
+Queue: 1 clients: closed
+-------------------------
+Time: 21
+Waiting tasks: 
+Queue: 0 clients: (0,20,1)
+Queue: 1 clients: (3,21,2)
+-------------------------
+Time: 22
+Waiting tasks: 
+Queue: 0 clients: closed
+Queue: 1 clients: (3,21,1)
+-------------------------
+Time: 23
+Waiting tasks: 
+Queue: 0 clients: closed
+Queue: 1 clients: closed
+-------------------------
